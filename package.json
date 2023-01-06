@@ -1,0 +1,17 @@
+{
+  "name": "clase-35-express-nodemailer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mailgen": "^2.0.27",
+    "nodemailer": "^6.8.0"
+  }
+}
